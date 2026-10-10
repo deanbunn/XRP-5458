@@ -34,6 +34,8 @@ public final class Constants {
     
     public static final double TURN_SPEED_RIGHT = -0.75;
     public static final double TURN_SPEED_LEFT = 0.75;
+
+    public static final double TURN_DEGREE_90 = 30.00;
     
   }
 }
