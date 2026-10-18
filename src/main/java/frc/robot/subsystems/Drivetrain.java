@@ -21,7 +21,7 @@ public class Drivetrain extends SubsystemBase {
 
   // The XRP has the left and right motors set to
   // channels 0 and 1 respectively
-  private final XRPMotor m_leftMotor = new XRPMotor(2);
+  private final XRPMotor m_leftMotor = new XRPMotor(0);
   private final XRPMotor m_rightMotor = new XRPMotor(1);
 
   // The XRP has onboard encoders that are hardcoded
