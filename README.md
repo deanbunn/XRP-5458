@@ -5,6 +5,7 @@ A XRP training repository for FRC Team 5458 (Digital Minds) developers, covering
 ### Resource Links:
 
 - [WPILib: XRP Hardware, Assembly, and Imaging](https://docs.wpilib.org/en/latest/docs/xrp-robot/hardware-and-imaging.html)
+- [GitHub: XRP WPILib Firmware Releases](https://github.com/wpilibsuite/xrp-wpilib-firmware/releases)
 - [WPILib: Programming the XRP](https://docs.wpilib.org/en/latest/docs/xrp-robot/programming-xrp.html)
 - [WPILib: Getting to know your XRP](https://docs.wpilib.org/en/stable/docs/xrp-robot/getting-to-know-xrp.html)
 - [WPILib: The XRP Web UI](https://docs.wpilib.org/en/stable/docs/xrp-robot/web-ui.html)
@@ -24,6 +25,7 @@ A XRP training repository for FRC Team 5458 (Digital Minds) developers, covering
 - `src/main/java/frc/robot/subsystems/Arm.java` — Arm subsystem.
 - `src/main/java/frc/robot/commands/ArcadeDrive.java` — Arcade drive subsystem.
 - `src/main/java/frc/robot/commands/AutonomousDistance.java` — Autonomous driving by distance commands.
+- `src/main/java/frc/robot/commands/Autonomous5458.java` — Autonomous command examples.
 - `src/main/java/frc/robot/commands/AutonomousTime.java` — Autonomous driving by time commands.
 - `src/main/java/frc/robot/commands/DriveDistance.java` — Command to drive specific distance.
 - `src/main/java/frc/robot/commands/DriveTime.java` — Command to drive for a set time.
